@@ -154,7 +154,7 @@
                   <a:latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
                   <a:cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
                 </a:rPr>
-                <a:t>https://example.com/path/to/masthead_image.jpg</a:t>
+                <a:t>https://example.com/path/to/masthead_image_1.jpg</a:t>
               </a:r>
               <a:endParaRPr lang="en-US" sz="2400" dirty="0">
                 <a:latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
@@ -196,7 +196,7 @@
                   <a:latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
                   <a:cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
                 </a:rPr>
-                <a:t>Terms and Conditions apply.</a:t>
+                <a:t>Terms and Conditions apply for Product 1.</a:t>
               </a:r>
               <a:endParaRPr lang="en-US" sz="1400" u="sng" dirty="0">
                 <a:latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
@@ -678,7 +678,7 @@
                   <a:latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
                   <a:cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
                 </a:rPr>
-                <a:t>Brand Name</a:t>
+                <a:t>Brand Name 1</a:t>
               </a:r>
             </a:p>
           </p:txBody>
@@ -768,7 +768,7 @@
                   <a:cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
                   <a:sym typeface="Arial" panose="020B0604020202020204"/>
                 </a:rPr>
-                <a:t>This is a detailed description of the product.</a:t>
+                <a:t>This is a detailed description of Product 1.</a:t>
               </a:r>
               <a:endParaRPr lang="en-IN" altLang="en-US" sz="2000" dirty="0">
                 <a:solidFill>
@@ -1026,7 +1026,7 @@
                   <a:latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
                   <a:cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
                 </a:rPr>
-                <a:t>https://example.com/path/to/weight_icon.png</a:t>
+                <a:t>https://example.com/path/to/weight_icon_1.png</a:t>
               </a:r>
               <a:endParaRPr lang="en-US" sz="1600" dirty="0">
                 <a:latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
@@ -1069,7 +1069,7 @@
                   <a:latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
                   <a:cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
                 </a:rPr>
-                <a:t>https://example.com/path/to/masthead_image.jpg</a:t>
+                <a:t>https://example.com/path/to/product_image_1.jpg</a:t>
               </a:r>
               <a:endParaRPr lang="en-US" dirty="0">
                 <a:latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
@@ -1160,7 +1160,7 @@
                   <a:latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
                   <a:cs typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
                 </a:rPr>
-                <a:t>EAN</a:t>
+                <a:t>mybarcode</a:t>
               </a:r>
             </a:p>
           </p:txBody>
